@@ -285,6 +285,4 @@ Use these directly in your resume under this project:
 
 ---
 
-## License
 
-MIT
