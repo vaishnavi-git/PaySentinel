@@ -1,6 +1,6 @@
 # Payroll Anomaly Detection & Audit API
 
-> A production-grade Spring Boot REST API that automatically detects payroll anomalies — overtime violations, missing punches, excessive shift durations, and weekly hour breaches — and surfaces them through a secured, role-based audit dashboard.
+> A production-grade Spring Boot REST API that automatically detects payroll anomalies overtime violations, missing punches, excessive shift durations, and weekly hour breaches and surfaces them through a secured, role-based audit dashboard.
 
 Built to mirror real-world HR/payroll compliance requirements, the kind handled at scale by enterprise platforms like ADP, Workday, and SAP HCM.
 
